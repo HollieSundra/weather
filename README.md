@@ -17,3 +17,6 @@ https://openweathermap.org/api
 https://medium.com/@DylanAttal/convert-celsius-to-fahrenheit-in-javascript-b6b76b47c4f0
 
 https://www.youtube.com/watch?v=nGVoHEZojiQ
+
+
+![image](https://user-images.githubusercontent.com/106099150/209034917-cca20234-4e1c-4f06-ae3f-1beee75df726.png)
